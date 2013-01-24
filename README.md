@@ -11,13 +11,19 @@ to use class/library correctly in right place with right parameters.
 This project includes scripts of "Hello world" message in different programming languages. 
 This message is viewed in GUI (not in console), also function is in different class (file).
 
-C++ OpenGL - compiled with g++ (Linux).
+C++ OpenGL - compiled with "g++ -lGL -lglut" (Linux).
 QtCreator - interface is made via Qt designer (Linux).
 Python -  (Linux).
 Ruby -  (Linux).
 C# -  (windows).
 HTML CSS PHP -  (apache).
 
+Later:
+*will add button to show and hide text.
+*will let user to change text.
 
 
-date created: 22.01.2013  14:35 Estonian time.
+date modified: xx.xx.2013  xx:xx Estonian time.
+Added:
+*updated README.md
+*created C++ OpenGL
