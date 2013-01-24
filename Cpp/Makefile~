@@ -1,4 +1,0 @@
-g++ main.cpp HelloWorld.cpp HelloWorld.h -o HelloWorld
-
-//gcc -lGL -lglut main.cpp HelloWorld.cpp HelloWorld.h -o HelloWorld
-
